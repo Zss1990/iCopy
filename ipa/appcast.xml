@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iCopy</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Fri, 06 May 2022 11:46:53 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="http://127.0.0.1/iCopy.zip" sparkle:version="1" sparkle:shortVersionString="0.0.1" length="16098895" type="application/octet-stream" sparkle:edSignature="0BPu1bpfhrL27BMgmBj3wJmfkTulrlgjrnDodoGo9NyU+uYtHfDLLJzXIIjG5fQmAUipiyZDo5/Nc90LJYEtBw=="/>
+        </item>
+    </channel>
+</rss>
